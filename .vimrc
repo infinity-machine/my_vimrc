@@ -13,9 +13,6 @@ call vundle#end()
 
 filetype plugin indent on
 
-autocmd VimEnter * NERDTree
-autocmd VimEnter * wincmd p
-
 syntax on
 
 set number
